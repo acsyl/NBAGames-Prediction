@@ -11,5 +11,5 @@
 |Deep Neural Network  |   66.7%  |
 
 # Ensemble Model(Max Voting):
-## Accuracy: 66.29%(RandomForest,NaiveBayes,KNN,LR,DNN)
-## Accuracy: 67.42% (RandomForest, NaiveBayes,dnn)
++ Accuracy: 66.29%(RandomForest,NaiveBayes,KNN,LR,DNN)
++ Accuracy: 67.42% (RandomForest, NaiveBayes,dnn)
